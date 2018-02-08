@@ -4,7 +4,7 @@ It uses neural network made of Convolutional1D layers, maxpooling, dropout and p
 GloVe word embeddings can be downloaded at https://nlp.stanford.edu/projects/glove/ <br/>
 I used this one : http://nlp.stanford.edu/data/glove.6B.zip (6B tokens, 400K vocab, uncased, 50d, 100d, 200d, & 300d vectors, 822 MB download) <br/>
 Little data preprocessing is done to make data cleaner.<br/>
-Most of the code and some preprocessing is in first.ipynb. Little processing is in second.ipynb.
+Most of the code and some preprocessing is in first.ipynb. Little preprocessing is in second.ipynb.
 
 
 ## Possible future improvements
